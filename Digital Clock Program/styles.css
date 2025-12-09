@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-image: url(https://www.4oito.com.br/media/noticias/Praias-de-Aracaju-Banner-1438x535_30603.jpg);
+  background-size: cover;
+}
+
+#clock-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#clock {
+  font-family: monospace;
+  font-size: 6.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  backdrop-filter: blur(5px);
+  background-color: rgba(1, 41, 76, 0.045);
+  width: 100%;
+}

@@ -1,0 +1,17 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+label {
+    display: block;
+}
+button {
+    height: 20px;
+    width: 80px;
+    color: yellowgreen;
+    background-color: #3B4950;
+}
+p {
+    color: salmon;
+    font-weight: bold;
+}

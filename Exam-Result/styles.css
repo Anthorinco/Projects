@@ -1,0 +1,12 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+#Nota {
+    height: 40px;
+    font-size: 50px;
+    width: 410px;
+}
+#Btn {
+    font-size: 40px;
+}
