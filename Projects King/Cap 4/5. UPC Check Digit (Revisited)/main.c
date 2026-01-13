@@ -1,7 +1,7 @@
 /*
 *Objective: Create a program that calculates the check digit of UPC ( Universal Product Code ).
 *Author: [Anthoni]
-*Date 01/12/2026
+*Date 01/13/2026
 */
 
 #include <stdio.h>
